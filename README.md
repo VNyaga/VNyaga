@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VNyaga
+- 👋 Hi, I’m Victoria Nyaga
 - 👀 I’m interested in statistical programming.
-- 📫 How to reach me victoria.nyaga@outlook.com
 
 <!---
 VNyaga/VNyaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
